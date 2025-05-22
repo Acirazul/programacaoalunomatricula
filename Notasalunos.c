@@ -1,7 +1,7 @@
 #include studio.h
 
 int main(){
-    int nota1, nota2, nota3;
+    float nota1, nota2, nota3;
     float media;
 
     printf("*** Programa de Cálculo de Média ***\n");
