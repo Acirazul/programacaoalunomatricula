@@ -6,7 +6,7 @@ int main(){
 
     printf("*** Programa de Cálculo de Média ***\n");
 
-    printf("Digite a sua primeira nota: \n");
+   printf("Digite a sua primeira nota: \n");
     scanf("%d", &nota1);
 
     printf("Digite a sua segunda nota: \n");
